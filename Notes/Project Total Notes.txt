@@ -1835,4 +1835,37 @@ export default class ListEmployeeComponent extends Component {
   }
 }
 
+Final Notes:-  Add project to GitHub
+======================================
+Github link:
+-----------
+https://github.com/allapurampradeep07/EMS-Project
+
+
+Push the project in GITHUB
+============================
+
+commands
+------
+git init 
+
+git branch --move master main
+
+git status 
+
+git add . 
+
+git commit -m "Project Notes"
+
+git remote add origin https://github.com/allapurampradeep07/EMS-Project
+
+git push -f origin main 
+
+
+Pull the project from github
+===============================
+git  init 
+
+git pull https://github.com/allapurampradeep07/EMS-Project
+
 
